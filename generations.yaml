@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_B-Max"
+
+generations:
+  - name: "First Generation"
+    start_year: 2012
+    end_year: 2017
+    description: "A mini MPV on the Fiesta's platform with sliding rear doors, with EcoBoost and TDCi engines."
